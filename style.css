@@ -489,3 +489,9 @@ body {
         height: 300px;
       }
 }
+
+@media screen and (min-width:700px) and (max-width:1020px) {
+    .video {
+        width: 70%;
+      }
+}
